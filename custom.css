@@ -1,0 +1,11 @@
+body{
+    font-family: 'calibri' !important;
+}
+.header-image{
+    height: 60vh;
+    min-height: 300px;
+    background-image: url('assets/bg-caze.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
